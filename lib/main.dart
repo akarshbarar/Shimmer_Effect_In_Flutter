@@ -30,7 +30,7 @@ class _IndexState extends State<Index> {
                 itemBuilder: (context,i){
                   return Shimmer.fromColors(
                       child:  ListTile(
-                        title: Text("Hii",style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold),),
+                        title: Text("Hii every one this is title $i ",style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold),),
                         subtitle: Text(i.toString()),
                       ),
                       baseColor:Colors.black,
