@@ -1,3 +1,4 @@
+import 'package:dynamic_theme_using_provider/speedDail.dart';
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
 
@@ -8,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Shimmer Effect",
       debugShowCheckedModeBanner: false,
-      home: Index(),
+      home: SpeedDail(), //Change to Index() if you want to go for Shimmer
     );
   }
 }
