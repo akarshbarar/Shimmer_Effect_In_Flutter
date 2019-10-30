@@ -1,6 +1,6 @@
-# dynamic_theme_using_provider
+# Shimmer Effect in Flutter
 
-Dynamic Theme using Provider
+Shimmer Effect in Flutter
 
 ## Getting Started
 
