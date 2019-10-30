@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Shimmer Effect",
       debugShowCheckedModeBanner: false,
-      home: SpeedDail(), //Change to Index() if you want to go for Shimmer
+      home: SpeedDail(), //Change to Index() if you want to go for Shimmer.
     );
   }
 }
